@@ -1,5 +1,5 @@
 <h2 align="center">
-        <samp>&gt; Olá, sou <b>L. Victor.🖖</b></samp> /**
+        <samp>&gt; Olá, sou <b>L. Victor.🖖</b></samp> <br/>
         <img src="./assets/codedog.gif" width=300>
 </h2>
 
