@@ -14,7 +14,7 @@
 # Sobre Mim
 **`Desenvolvedor e estudante de TI`**
 <br/>
-comecei com o desenvolvimento de jogos utilizando Unity em 2018 por uma paixão de infancia, 
+- comecei com o desenvolvimento de jogos utilizando Unity em 2018 por uma paixão de infancia, 
 desde então estou abrangendo o desenvolvimento geral para diversas plataformas projetando soluções e programas.
 ---
 - ⛓ Atualmente cursando o 4º semestre em Análise  e Desenvolvimento de Sistemas.
